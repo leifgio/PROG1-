@@ -1,0 +1,13 @@
+solve the game by using clues. you have 12 tries
+
+classic:
+sample solution = Red, Red, Red, Red
+sample Guess = Blue, Red, Red, Blue
+evalution will be Exact: 2, Correct: 0
+
+crazymode:
+sample solution = Red, Blue, Blue, Blue
+sample Guess = Red, Red, Red, Red
+evalution will be Exact: 1, Correct: 3
+
+in crazymode beware of the distractors
